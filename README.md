@@ -53,8 +53,8 @@ A two-page design offering both high-level overview and job title drill-through 
 
 📸 **Screenshots**
 
-![Dashboard 1 Overview](dashboard1/screenshots/54b61a45264a3eb6a382c2b55dc3e15a.png)
-![Dashboard 1 Drillthrough](dashboard1/screenshots/97b0d097e81b89d52e9c8db4198b505d.png)
+![Dashboard 1 Overview](dashboard1/screenshots/page1_high_level.png)
+![Dashboard 1 Drillthrough](dashboard1/screenshots/page2_drillthrough.png)
 
 ---
 
@@ -71,7 +71,7 @@ A refined version focused on compact insights and decision-making efficiency.
 
 📸 **Screenshot**
 
-![Dashboard 2](dashboard2/screenshot/4b9f807d8c02f4dec17baa1a07f0fd6e.png)
+![Dashboard 2](dashboard2/screenshot/dashboard_single_page.png)
 
 ---
 
@@ -105,7 +105,7 @@ If you’re unable to access the file or prefer receiving it directly, feel free
 
 💼 Open to opportunities related to **Data Analysis / BI / Analytics Engineering**
 
-📧 Email: *your-email@example.com*  
+📧 Email: *taowang3473@gmail.com*  
 🔗 LinkedIn: *your-linkedin-profile*
 
 ---
