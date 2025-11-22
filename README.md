@@ -29,11 +29,13 @@ powerbi-job-market-portfolio/
 │       └── page2_drillthrough.png
 ├── dashboard2/
 │   ├── Job_Market_V2.pbix
-│   └── screenshots/
+│   └── screenshot/
 │       └── dashboard_single_page.png
 └── README.md
 
 > **Note:** `.pbix` files are stored using **Git LFS** due to GitHub’s 25MB upload limit.
+
+```
 
 ---
 
