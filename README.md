@@ -19,18 +19,19 @@ Although inspired by Luke Barousse’s work, **every step was implemented manual
 ---
 
 ## 📁 Repository Structure
+
+```text
 powerbi-job-market-portfolio/
 ├── dashboard1/
-│ ├── Job_Market_V1.pbix
-│ └── screenshots/
-│ ├── page1_high_level.png
-│ └── page2_drillthrough.png
+│   ├── Job_Market_V1.pbix
+│   └── screenshots/
+│       ├── page1_high_level.png
+│       └── page2_drillthrough.png
 ├── dashboard2/
-│ ├── Job_Market_V2.pbix
-│ └── screenshots/
-│ └── dashboard_single_page.png
+│   ├── Job_Market_V2.pbix
+│   └── screenshots/
+│       └── dashboard_single_page.png
 └── README.md
-
 
 > **Note:** `.pbix` files are stored using **Git LFS** due to GitHub’s 25MB upload limit.
 
@@ -50,8 +51,8 @@ A two-page design offering both high-level overview and job title drill-through 
 
 📸 **Screenshots**
 
-![Dashboard 1 Overview](dashboard1/screenshots/page1_high_level.png)
-![Dashboard 1 Drillthrough](dashboard1/screenshots/page2_drillthrough.png)
+![Dashboard 1 Overview](dashboard1/screenshots/54b61a45264a3eb6a382c2b55dc3e15a.png)
+![Dashboard 1 Drillthrough](dashboard1/screenshots/97b0d097e81b89d52e9c8db4198b505d.png)
 
 ---
 
@@ -68,7 +69,7 @@ A refined version focused on compact insights and decision-making efficiency.
 
 📸 **Screenshot**
 
-![Dashboard 2](dashboard2/screenshots/dashboard_single_page.png)
+![Dashboard 2](dashboard2/screenshot/4b9f807d8c02f4dec17baa1a07f0fd6e.png)
 
 ---
 
