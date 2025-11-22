@@ -82,6 +82,7 @@ A refined version focused on compact insights and decision-making efficiency.
 | **ETL** | Data cleaning & transformation using Power Query |
 | **Modeling** | Star schema, relationship design |
 | **DAX** | KPI measures, aggregation, dynamic calculations |
+| **Parameters** | Field parameters for dynamic dimension & measure switching |
 | **Visualization** | Bar, column, map, card, table |
 | **Interactivity** | Drill-through, slicers, bookmarks, buttons |
 | **Design** | UI optimization, color consistency & layout strategy |
